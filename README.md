@@ -7,7 +7,7 @@ EmoCapCLIP: Learning Transferable Facial Emotion Representations from Large-Scal
 
 
 <p align="center">
-  <img src="figs/Overview.png" width=100%> <br>
+  <img src="figs/Overview.png" width=80%> <br>
   Overview of EmoCapCLIP
 </p>
 
