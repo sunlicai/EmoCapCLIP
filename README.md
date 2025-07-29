@@ -1,14 +1,18 @@
 # EmoCapCLIP
-EmoCapCLIP: Learning Transferable Facial Emotion Representations from Large-Scale Semantically Rich Captions
+
+<a href="https://arxiv.org/abs/2507.21015"><img src="https://img.shields.io/badge/arXiv-paper-<color>"></a>
 
 
+>[**Learning Transferable Facial Emotion Representations from Large-Scale Semantically Rich Captions**](https://arxiv.org/abs/2507.21015)<br>
+> [Licai Sun∗](https://sunlicai.github.io/), [Xingxun Jiang∗](https://jiangxingxun.github.io/), [Haoyu Chen](https://mikecheninoulu.github.io/), [Yante Li](https://scholar.google.com/citations?user=zYCz89sAAAAJ&hl=en&oi=ao), [Zheng Lian](https://zeroqiaoba.github.io/Homepage/), [Biu Liu](https://scholar.google.com/citations?user=UEB_5QEAAAAJ&hl=en), [Yuan Zong](https://scholar.google.com/citations?user=rv14ap4AAAAJ&hl=en&oi=ao), [Wenming Zheng†](https://scholar.google.com/citations?user=k5fqIogAAAAJ&hl=en), [Jukka M. Leppänen](https://scholar.google.com/citations?user=dNRRUIsAAAAJ&hl=en&oi=ao), [Guoying Zhao†](https://scholar.google.com/citations?user=hzywrFMAAAAJ&hl=en&oi=ao)<br>
+University of Oulu, Southeast University, University of Turku, Institute of Automation, Chinese Academy of Sciences
 
 ## ✨ Overview
 
 
 <p align="center">
   <img src="figs/Overview.png" width=80%> <br>
-  Overview of EmoCapCLIP
+  Conceptual overview of our EmoCapCLIP
 </p>
 
 
